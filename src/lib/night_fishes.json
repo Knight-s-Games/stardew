@@ -1,0 +1,26 @@
+[
+  {
+    "Position": "1",
+    "Thumbnail": "https://stardewvalleywiki.com/mediawiki/images/8/83/Midnight_Squid.png",
+    "Name": "Midnight Squid",
+    "Description": "A strange and mysterious denizen of the ocean's twilight depths.",
+    "Base Price": "100g",
+    "Base XP": "21"
+  },
+  {
+    "Position": "2",
+    "Thumbnail": "https://stardewvalleywiki.com/mediawiki/images/8/8c/Spook_Fish.png",
+    "Name": "Spook Fish",
+    "Description": "The huge eyes can detect the faint silhouettes of prey.",
+    "Base Price": "220g",
+    "Base XP": "23"
+  },
+  {
+    "Position": "3",
+    "Thumbnail": "https://stardewvalleywiki.com/mediawiki/images/7/7f/Blobfish.png",
+    "Name": "Blobfish",
+    "Description": "This odd creature floats above the ocean floor, consuming any edible material in its path.",
+    "Base Price": "500g",
+    "Base XP": "28"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Position": "1",
+    "Thumbnail": "https://stardewvalleywiki.com/mediawiki/images/d/dc/Crimsonfish.png",
+    "Name": "Crimsonfish",
+    "Description": "Lives deep in the ocean but likes to lay its eggs in the warm summer water.",
+    "Base Price": "1,500g",
+    "Location": "East Pier on The Beach. Requires level 5 fishing.",
+    "Time": "Any",
+    "Season": "Summer",
+    "Weather": "Any",
+    "Base XP": "170"
+  },
+  {
+    "Position": "2",
+    "Thumbnail": "https://stardewvalleywiki.com/mediawiki/images/b/bf/Angler.png",
+    "Name": "Angler",
+    "Description": "Uses a bioluminescent dangler to attract prey.",
+    "Base Price": "900g",
+    "Location": "North of JojaMart on the wooden plank bridge. Requires level 3 fishing.",
+    "Time": "Any",
+    "Season": "Fall",
+    "Weather": "Any",
+    "Base XP": "155"
+  },
+  {
+    "Position": "3",
+    "Thumbnail": "https://stardewvalleywiki.com/mediawiki/images/1/10/Legend.png",
+    "Name": "Legend",
+    "Description": "The king of all fish! They said he'd never be caught.",
+    "Base Price": "5,000g",
+    "Location": "The Mountain Lake near the log. Requires level 10 fishing.",
+    "Time": "Any",
+    "Season": "Spring",
+    "Weather": "Rain",
+    "Base XP": "195"
+  },
+  {
+    "Position": "4",
+    "Thumbnail": "https://stardewvalleywiki.com/mediawiki/images/f/fd/Glacierfish.png",
+    "Name": "Glacierfish",
+    "Descriptionription": "Builds a nest on the underside of glaciers.",
+    "Base Price": "1,000g",
+    "Location": "South end of Arrowhead Island in Cindersap Forest. Requires level 6 fishing.",
+    "Time": "Any",
+    "Season": "Winter",
+    "Weather": "Any",
+    "Base XP": "180"
+  },
+  {
+    "Position": "5",
+    "Thumbnail": "https://stardewvalleywiki.com/mediawiki/images/c/cb/Mutant_Carp.png",
+    "Name": "Mutant Carp",
+    "Description": "The strange waters of the sewer turned this carp into a monstrosity.",
+    "Base Price": "1,000g",
+    "Location": "The Sewers",
+    "Time": "Any",
+    "Season": "All Seasons",
+    "Weather": "Any",
+    "Base XP": "145"
+  }
+]
